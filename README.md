@@ -37,7 +37,7 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/4gp-observo/4gp-observo/output/snake.svg](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
