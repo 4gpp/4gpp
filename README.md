@@ -44,7 +44,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=4gp-observo.4gp-observo&left_text=Profile%20Views"  />
+  <img src="https://profile-counter.glitch.me/4gp-observo/count.svg?"  />
 </div>
 
 ###
